@@ -53,6 +53,6 @@ Allows _spender to spend no more than _value on behalf of msg.sender only if the
 
 The contracts need to be flattened so they can be added to Ricardian Fabric via a proposal.
 
-    npx hardhat flatten
+    npx hardhat flatten > hrc20flattened.sol
 
 After the flattening, the license identifiers need to be manually removed, the flattened file is checked into git.
