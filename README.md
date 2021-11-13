@@ -1,6 +1,6 @@
 # HRC20 Contract with Simple Terms
 
-Thsi is a token contract works with Ricardian Fabric and implements the HRC20 standard from harmony. the code is pretty much taken from the https://ide.harmony.one template with added support for Ricardian Fabric using inheritance and checkAcceptance modifier.
+This is a token contract works with Ricardian Fabric and implements the HRC20 standard from Harmony which is compatible with ERC20. the code is pretty much taken from the https://ide.harmony.one template with added support for Ricardian Fabric using inheritance and checkAcceptance modifier.
 
 
 ## Events
