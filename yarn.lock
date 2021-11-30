@@ -663,10 +663,10 @@
     path-browserify "^1.0.0"
     url "^0.11.0"
 
-"@ricardianfabric/simpleterms@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@ricardianfabric/simpleterms/-/simpleterms-0.0.2.tgz#23f2f1df2eb49dc3cd92d0e809a766b01f3f3869"
-  integrity sha512-INUNwn79sXqR/JW/cx5ClQcJgHz5R2GtRq/m7SPByHDuwVRtuBxa+vt24Whi42iuxwOSz+XyuEd7p08F3Sp5mg==
+"@ricardianfabric/simpleterms@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@ricardianfabric/simpleterms/-/simpleterms-0.0.3.tgz#8c4a9577a6fa36708df80a55cd65081cda01f078"
+  integrity sha512-X7taTihCZfvFkY3/oZnzLQJ1ESHYmj09fyyn3ekYZ/K5LkEYHtezLWzAGT9snwDlyx207b0yXgyiBlTXbwjqOg==
 
 "@sentry/core@5.30.0":
   version "5.30.0"
