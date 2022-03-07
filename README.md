@@ -2,6 +2,9 @@
 
 This is a token contract works with Ricardian Fabric and implements the HRC20 standard from Harmony which is compatible with ERC20. the code is pretty much taken from the https://ide.harmony.one template with added support for Ricardian Fabric using inheritance and checkAcceptance modifier.
 
+## Compiling
+
+    npx hardhat compile
 
 ## Events
     event Transfer(address indexed from, address indexed to, uint256 value);
